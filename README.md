@@ -1,4 +1,4 @@
-# Dice game
+# Dice Game
 
 A simple, fun web-based Dice Game where two players can roll the dice and see who wins! Built with HTML, CSS, and JavaScript.
 
