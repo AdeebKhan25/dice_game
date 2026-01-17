@@ -4,7 +4,7 @@ A simple, fun web-based Dice Game where two players can roll the dice and see wh
 
 ## Features
 
-1. Play 🎲 dice using a web app instead of a physical one.
+1. Play dice using a web app instead of a physical one.
 2. Click the "Roll the Dice !!!" button.
 3. Each player rolls a die, and the player with the higher number wins!
 4. If both players roll the same number, it's a tie.
